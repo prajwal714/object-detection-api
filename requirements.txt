@@ -3,4 +3,4 @@ opencv-python
 numpy
 flask
 pillow
-gunicorn== 19.9.0
+gunicorn
